@@ -1,0 +1,6 @@
+@Invilytics.Backend.WebApi_HostAddress = http://localhost:5210
+
+GET {{Invilytics.Backend.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\bin\Debug\net8.0\Invilytics.Backend.Application.deps.json
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\bin\Debug\net8.0\Invilytics.Backend.Application.dll
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\bin\Debug\net8.0\Invilytics.Backend.Application.pdb
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\bin\Debug\net8.0\Invilytics.Backend.Domain.dll
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\bin\Debug\net8.0\Invilytics.Backend.Domain.pdb
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilytics.Backend.Application.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilytics.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilytics.Backend.Application.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilytics.Backend.Application.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilytics.Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilyti.757E3DB5.Up2Date
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilytics.Backend.Application.dll
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\refint\Invilytics.Backend.Application.dll
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\Invilytics.Backend.Application.pdb
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Application\obj\Debug\net8.0\ref\Invilytics.Backend.Application.dll

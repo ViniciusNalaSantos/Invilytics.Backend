@@ -1,0 +1,12 @@
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\bin\Debug\net8.0\Invilytics.Backend.Domain.deps.json
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\bin\Debug\net8.0\Invilytics.Backend.Domain.dll
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\bin\Debug\net8.0\Invilytics.Backend.Domain.pdb
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\Invilytics.Backend.Domain.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\Invilytics.Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\Invilytics.Backend.Domain.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\Invilytics.Backend.Domain.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\Invilytics.Backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\Invilytics.Backend.Domain.dll
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\refint\Invilytics.Backend.Domain.dll
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\Invilytics.Backend.Domain.pdb
+C:\Users\vinic\source\repos\Invilytics.Backend\Invilytics.Backend.Domain\obj\Debug\net8.0\ref\Invilytics.Backend.Domain.dll
